@@ -1,16 +1,13 @@
-### Hi there 👋
+# Abdelkrime Aries
+## Hi there 👋, call me "Karim"
+<a href="mailto:kariminfo0@gmail.com" target="_blank">![mail](assets/mail.png)</a>
+<a href="https://www.linkedin.com/in/karies/" target="_blank">![linkedin](assets/linkedin.png)</a>
+<a href="https://twitter.com/kariminf" target="_blank">![twitter](assets/twitter.png)</a>
 
-<!--
-**kariminf/kariminf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Assistant professor at <a href="https://www.esi.dz/" target="_blank">Ecole nationale supérieure d'informatique (ESI, ex. INI), Algiers, Algeria</a>
+- 💻 I develop useless programs (unless someone can use them somehow)
+- 🍔🌮🍙🍝🍰 I like food and cooking. Cooking is like programming; recipes are like automata
+- 🎯 For me, programming is not a language you use; it is an art and a logic. Good programmers are those who master the abstrat form of algorithms, not a specific language or worse: a toolkit
+- 👥 Not social, definatly insensitive and sarcasm is my gem. Talking to me is like communicating with an alien 👽 or even a robot 🤖
+- 🐱 Lazy like a cat
+- 👿 Evil 
